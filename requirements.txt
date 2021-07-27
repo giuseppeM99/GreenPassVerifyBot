@@ -1,6 +1,8 @@
 base45==0.4.1
+botogram2
 cbor2==5.2.0
 cose==0.9.dev7
 cryptography==3.4.7
+python-dotenv
 pyzbar
 Pillow
