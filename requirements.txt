@@ -1,0 +1,6 @@
+base45==0.4.1
+cbor2==5.2.0
+cose==0.9.dev7
+cryptography==3.4.7
+pyzbar
+Pillow
