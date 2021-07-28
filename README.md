@@ -1,5 +1,6 @@
 # GreenPassVerifyBot
 A telegram bot to verify the DGC/DCC QR Code
+Try it at https://t.me/GPVerifyBot
 
 ## Quick Start
 
