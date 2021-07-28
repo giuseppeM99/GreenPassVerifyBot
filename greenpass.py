@@ -170,8 +170,7 @@ if __name__ == '__main__':
             content = read_qr(qr_pil)
         else:
             infile = None
-            content = sys.argv[1]
+            content = sys.argv[1].encode('UTF-8')
 
-    content = read_qr(qr_pil)
     certificate, is_valid = certinfo(content)
     print(annotate(certificate['certificate']))
